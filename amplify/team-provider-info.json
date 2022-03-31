@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gambitoquote-dev-64603-authRole",
+      "UnauthRoleArn": "arn:aws:iam::374807227479:role/amplify-gambitoquote-dev-64603-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::374807227479:role/amplify-gambitoquote-dev-64603-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gambitoquote-dev-64603-deployment",
+      "UnauthRoleName": "amplify-gambitoquote-dev-64603-unauthRole",
+      "StackName": "amplify-gambitoquote-dev-64603",
+      "StackId": "arn:aws:cloudformation:us-east-1:374807227479:stack/amplify-gambitoquote-dev-64603/c4e1f120-b0df-11ec-8c26-12a71a1a2721",
+      "AmplifyAppId": "dbds0trl4687f"
+    },
+    "categories": {
+      "function": {
+        "gettrims": {
+          "deploymentBucketName": "amplify-gambitoquote-dev-64603-deployment",
+          "s3Key": "amplify-builds/gettrims-4a365850506d6d533833-build.zip"
+        },
+        "getmodels": {
+          "deploymentBucketName": "amplify-gambitoquote-dev-64603-deployment",
+          "s3Key": "amplify-builds/getmodels-39364b6e42712f356e6f-build.zip"
+        },
+        "getmakes": {
+          "deploymentBucketName": "amplify-gambitoquote-dev-64603-deployment",
+          "s3Key": "amplify-builds/getmakes-4e5048716a522f324e65-build.zip"
+        }
+      }
+    }
+  }
+}
